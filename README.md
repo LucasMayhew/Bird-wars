@@ -15,7 +15,7 @@ Then you use the B buten to make birds
 After you have set up defences you click the menu buten to start the waves.
 
 ## Vershons
-* [1.0] (https://makecode.com/_g1oFozfMoev0)
+* [1.0](https://makecode.com/_g1oFozfMoev0)
 
 
 ## The Birds
