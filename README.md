@@ -16,7 +16,7 @@ After you have set up defences you click the menu buten to start the waves.
 
 Stats
 
-*Damge = 1
-*Cost = 2
+* Damge = 1
+* Cost = 2
 
 
