@@ -1,5 +1,8 @@
 # Bird-wars
- 
+
+## table of contents
+[How to play](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#how-to-play)
+
 ## How to play 
 First you selecting a map 
 
