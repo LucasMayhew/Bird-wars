@@ -2,7 +2,8 @@
 
 ## table of contents
 [How to play](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#how-to-play)
-
+[The Birds](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#the-birds)
+[* American Robin](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#american-robin)
 ## How to play 
 First you selecting a map 
 
