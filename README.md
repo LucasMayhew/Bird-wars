@@ -16,6 +16,7 @@ First you select a map
 Then you use the B button to place birds
 
 After you have setup your defenses you click the menu button to start the waves.
+[Microsoft MakeCode Arcade - Google Chrome 8_20_2021 12_04_50 PM](https://user-images.githubusercontent.com/59377840/130269029-f29132e7-c296-46d8-bc7d-bbda568619b6.png)
 
 ## Versions
 
@@ -64,8 +65,9 @@ https://www.allaboutbirds.org/guide/American_Goldfinch
 
 * Cost = 40
 * Damage = 1
-* Delay Between Shots = 4 second 
+* Delay Between Shots = 4 seconds 
 
 For more information on the American Crow go here
 
 https://www.allaboutbirds.org/guide/American_Crow
+
