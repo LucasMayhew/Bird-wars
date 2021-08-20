@@ -12,6 +12,8 @@
 * [Carolina Chickadee](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#carolina-chickadee)
 * [Wood Duck](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#wood-duck)
 * [Eastern Bluebird](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#eastern-bluebird)
+* [Blue Jay](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#blue-jay)
+
 
 
 
