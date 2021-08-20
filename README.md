@@ -116,7 +116,7 @@ https://www.allaboutbirds.org/guide/Wood_Duck/
 * Cost = 60
 * Damage = 4
 * Delay Between Shots = 500 milliseconds
-* Gives you 2 dollars when it shoots a snake
+* Gives you 5 dollars when it shoots a snake
 
 For more information on the Eastern Bluebird go here
 
