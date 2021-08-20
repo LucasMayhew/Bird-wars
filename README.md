@@ -13,8 +13,9 @@
 * [Wood Duck](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#wood-duck)
 * [Eastern Bluebird](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#eastern-bluebird)
 * [Blue Jay](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#blue-jay)
-
-
+* [Northern Cardinal](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#northern-cardinal)
+* [Laughing Gull](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#laughing-gull)
+* [Barred Owl](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#barred-owl)
 
 
 ## How to play 
@@ -31,7 +32,7 @@ After you have setup your defenses you click the menu button to start the waves.
 * [1.0](https://makecode.com/_6Pb3jHggTaV0)
 
 ## The Birds
-
+Please note I have not added all the birds that are in bird wars.
 
 ### American Robin
 
