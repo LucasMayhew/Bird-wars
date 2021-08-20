@@ -74,4 +74,18 @@ For more information on the American Crow go here
 https://www.allaboutbirds.org/guide/American_Crow
 
 
+### Carolina Chickadee 
+
+![birds](https://user-images.githubusercontent.com/59377840/130288147-17dab27f-294c-4238-9fe4-12980fbce902.jpg)
+
+#### Stats
+
+* Cost = 40
+* Damage = 3
+* Delay Between Shots = 1 second
+
+For more information on the Carolina Chickadee go here
+
+https://www.allaboutbirds.org/guide/Carolina_Chickadee/
+
 
