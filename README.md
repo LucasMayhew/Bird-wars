@@ -127,7 +127,7 @@ https://www.allaboutbirds.org/guide/Eastern_Bluebird/
 
 ### Blue Jay 
 
-![birds](https://user-images.githubusercontent.com/59377840/130291791-5267f32e-24d6-4f79-8fa2-ca0acd378a2a.jpg)
+![birds](https://user-images.githubusercontent.com/59377840/130292399-ecd0aeb4-24cf-4006-8dfa-b9f8dd0a46d3.jpg)
 
 #### Stats
 
