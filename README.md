@@ -29,7 +29,7 @@ After you have setup your defenses you click the menu button to start the waves.
 
 ## Versions
 
-* [1.0](https://makecode.com/_6Pb3jHggTaV0)
+* [1.0](https://makecode.com/_Kqd6kx1y72hD)
 
 ## The Birds
 Please note I have not added all the birds that are in bird wars.
