@@ -14,9 +14,9 @@ Then you use the B button to place birds
 
 After you have setup your defenses you click the menu button to start the waves.
 
-## Vershons
+## Versions
 
-* [1.0](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#american-robin)
+* [1.0](https://makecode.com/_6Pb3jHggTaV0)
 
 ## The Birds
 
