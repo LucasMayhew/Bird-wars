@@ -10,7 +10,8 @@
 * [ American Goldfinch](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#american-goldfinch)
 * [American Crow](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#american-crow)
 * [Carolina Chickadee](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#carolina-chickadee)
-* 
+* [Wood Duck](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#wood-duck)
+
 
 ## How to play 
 First you select a map 
