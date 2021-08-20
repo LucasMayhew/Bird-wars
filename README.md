@@ -38,7 +38,7 @@ https://www.allaboutbirds.org/guide/American_Robin/overview
 
 ### American Goldfinch
 
-![Microsoft MakeCode Arcade - Google Chrome 8_18_2021 11_43_19 AM](https://user-images.githubusercontent.com/59377840/129940031-62f7d867-e919-4cb1-af70-51293198a661.jpg)
+![Gold](https://user-images.githubusercontent.com/59377840/130266098-ff8a2a9a-2738-49cf-a8ef-ad2870f96ead.jpg)
 
 #### Stats
 
@@ -46,7 +46,8 @@ https://www.allaboutbirds.org/guide/American_Robin/overview
 * Damge = 1
 * Gives 2 dollers when shoots a snake
 
+
 For more informashon on the American Goldfinch go here
 
-https://www.allaboutbirds.org/guide/American_Robin/overview
+https://www.allaboutbirds.org/guide/American_Goldfinch
 
