@@ -32,6 +32,7 @@ After you have setup your defenses you click the menu button to start the waves.
 
 * Cost = 20
 * Damage = 1
+* Delay Between Shots = 1 second 
 
 For more information on the American Robin go here
 
@@ -46,6 +47,7 @@ https://www.allaboutbirds.org/guide/American_Robin/overview
 
 * Cost = 30
 * Damage = 1
+* Delay Between Shots = 1 second 
 * Gives you 2 dollars when it shoots a snake
 
 
@@ -53,3 +55,17 @@ For more information on the American Goldfinch go here
 
 https://www.allaboutbirds.org/guide/American_Goldfinch
 
+
+### American Crow
+
+![birds](https://user-images.githubusercontent.com/59377840/130268653-7e516e3b-aedc-41a8-88bb-e383d76089c8.jpg)
+
+#### Stats
+
+* Cost = 40
+* Damage = 1
+* Delay Between Shots = 4 second 
+
+For more information on the American Crow go here
+
+https://www.allaboutbirds.org/guide/American_Crow
