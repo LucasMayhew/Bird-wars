@@ -90,3 +90,20 @@ For more information on the Carolina Chickadee go here
 https://www.allaboutbirds.org/guide/Carolina_Chickadee/
 
 
+
+### Wood Duck 
+
+![birds](https://user-images.githubusercontent.com/59377840/130289564-401f366e-3bd6-47a7-9395-94b6fa848b84.jpg)
+
+#### Stats
+
+* Cost = 50
+* Damage = 4
+* Delay Between Shots = 1 second
+
+For more information on the Wood Duck go here
+
+https://www.allaboutbirds.org/guide/Wood_Duck/
+
+
+
