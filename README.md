@@ -8,16 +8,15 @@
 * [ American Robin](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#american-robin)
 
 ## How to play 
-First you selecting a map 
+First you select a map 
 
-Then you use the B buten to make birds
+Then you use the B button to place birds
 
-After you have set up defences you click the menu buten to start the waves.
+After you have setup your defenses you click the menu button to start the waves.
 
 ## Vershons
-<div style="position:relative;height:0;padding-bottom:117.6%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/---run?id=_L7T983MsAAw9" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
-* [1.0](https://makecode.com/_g1oFozfMoev0)
 
+* [1.0](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#american-robin)
 
 ## The Birds
 
@@ -29,9 +28,9 @@ After you have set up defences you click the menu buten to start the waves.
 #### Stats
 
 * Cost = 20
-* Damge = 1
+* Damage = 1
 
-For more informashon on the American Robin go here
+For more information on the American Robin go here
 
 https://www.allaboutbirds.org/guide/American_Robin/overview
 
@@ -43,11 +42,11 @@ https://www.allaboutbirds.org/guide/American_Robin/overview
 #### Stats
 
 * Cost = 30
-* Damge = 1
-* Gives 2 dollers when shoots a snake
+* Damage = 1
+* Gives you 2 dollars when it shoots a snake
 
 
-For more informashon on the American Goldfinch go here
+For more information on the American Goldfinch go here
 
 https://www.allaboutbirds.org/guide/American_Goldfinch
 
