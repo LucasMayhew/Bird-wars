@@ -11,6 +11,8 @@
 * [American Crow](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#american-crow)
 * [Carolina Chickadee](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#carolina-chickadee)
 * [Wood Duck](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#wood-duck)
+* [Wood Duck](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#eastern-bluebird)
+
 
 
 ## How to play 
