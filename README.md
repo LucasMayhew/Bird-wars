@@ -16,7 +16,8 @@ First you select a map
 Then you use the B button to place birds
 
 After you have setup your defenses you click the menu button to start the waves.
-![Microsoft MakeCode Arcade - Google Chrome 8_20_2021 12_04_50 PM](https://user-images.githubusercontent.com/59377840/130269029-f29132e7-c296-46d8-bc7d-bbda568619b6.png)
+![Microsoft MakeCode Arcade - Google Chrome 8_20_2021 12_09_31 PM](https://user-images.githubusercontent.com/59377840/130269424-749b6da0-49fd-45da-be05-94faa7009d58.png)
+
 
 ## Versions
 
