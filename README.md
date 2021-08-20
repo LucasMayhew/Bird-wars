@@ -107,4 +107,21 @@ For more information on the Wood Duck go here
 https://www.allaboutbirds.org/guide/Wood_Duck/
 
 
+### Eastern Bluebird 
+
+![birds](https://user-images.githubusercontent.com/59377840/130291791-5267f32e-24d6-4f79-8fa2-ca0acd378a2a.jpg)
+
+#### Stats
+
+* Cost = 60
+* Damage = 4
+* Delay Between Shots = 500 milliseconds
+* Gives you 2 dollars when it shoots a snake
+
+For more information on the Eastern Bluebird go here
+
+https://www.allaboutbirds.org/guide/Eastern_Bluebird/
+
+
+
 
