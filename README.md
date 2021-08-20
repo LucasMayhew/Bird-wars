@@ -35,3 +35,18 @@ For more informashon on the American Robin go here
 
 https://www.allaboutbirds.org/guide/American_Robin/overview
 
+
+### American Goldfinch
+
+![Microsoft MakeCode Arcade - Google Chrome 8_18_2021 11_43_19 AM](https://user-images.githubusercontent.com/59377840/129940031-62f7d867-e919-4cb1-af70-51293198a661.jpg)
+
+#### Stats
+
+* Cost = 30
+* Damge = 1
+* Gives 2 dollers when shoots a snake
+
+For more informashon on the American Goldfinch go here
+
+https://www.allaboutbirds.org/guide/American_Robin/overview
+
