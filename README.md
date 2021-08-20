@@ -160,7 +160,7 @@ https://www.allaboutbirds.org/guide/Northern_Cardinal/
 
 ### Laughing Gull 
 
-![birds](https://user-images.githubusercontent.com/59377840/130292775-0e11835e-8c85-41b5-a04b-34cbb7bf20d6.jpg)
+![birds](https://user-images.githubusercontent.com/59377840/130293424-836895de-c851-45ab-8075-28cc6785b126.jpg)
 
 #### Stats
 
@@ -172,3 +172,20 @@ https://www.allaboutbirds.org/guide/Northern_Cardinal/
 For more information on the Laughing Gull go here
 
 https://www.allaboutbirds.org/guide/Laughing_Gull/
+
+### Barred Owl 
+
+![birds](https://user-images.githubusercontent.com/59377840/130293944-88c7d92a-d0de-49dd-a78b-0b96bcd3171c.jpg)
+
+#### Stats
+
+* Cost = 80
+* Damage = 1
+* Delay Between Shots = 1 seconds
+* Damages Armor by 1 
+
+
+For more information on the Barred Owl go here
+
+https://www.allaboutbirds.org/guide/Barred_Owl/
+
