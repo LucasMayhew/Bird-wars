@@ -156,3 +156,19 @@ For more information on the Northern Cardinal go here
 
 https://www.allaboutbirds.org/guide/Northern_Cardinal/
 
+
+
+### Laughing Gull 
+
+![birds](https://user-images.githubusercontent.com/59377840/130292775-0e11835e-8c85-41b5-a04b-34cbb7bf20d6.jpg)
+
+#### Stats
+
+* Cost = 80
+* Damage = 7
+* Delay Between Shots = 1 seconds
+* Gives you 5 dollars when it shoots a snake
+
+For more information on the Laughing Gull go here
+
+https://www.allaboutbirds.org/guide/Laughing_Gull/
