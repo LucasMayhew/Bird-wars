@@ -142,3 +142,17 @@ For more information on the Blue Jay go here
 https://www.allaboutbirds.org/guide/Blue_Jay/
 
 
+### Northern Cardinal 
+
+![birds](https://user-images.githubusercontent.com/59377840/130292775-0e11835e-8c85-41b5-a04b-34cbb7bf20d6.jpg)
+
+#### Stats
+
+* Cost = 70
+* Damage = 7
+* Delay Between Shots = 1 seconds
+
+For more information on the Northern Cardinal go here
+
+https://www.allaboutbirds.org/guide/Northern_Cardinal/
+
