@@ -3,6 +3,8 @@
 ## table of contents
 [How to play](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#how-to-play)
 
+[Versions](https://github.com/LucasMayhew/Bird-wars#vershons)
+
 [The Birds](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#the-birds)
 
 * [ American Robin](https://github.com/LucasMayhew/Bird-wars/blob/main/README.md#american-robin)
